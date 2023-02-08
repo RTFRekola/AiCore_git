@@ -1,0 +1,5 @@
+total 12
+drwxrwxr-x 3 ramir ramir 4096 Feb  8 21:14 .
+drwxrwxr-x 7 ramir ramir 4096 Feb  8 20:56 ..
+drwxrwxr-x 8 ramir ramir 4096 Feb  8 21:16 .git
+-rw-rw-r-- 1 ramir ramir    0 Feb  8 21:17 test.txt
